@@ -64,6 +64,7 @@ Due to time constraint, we did not implement bio-energetics which is a key compo
 
 ## References (For this sumamry)
 [1] Railsback, Steven F. andGrimm, V. Agent-based and individual-based modeling: A practical introduction.
+
 [2] Boyd, Robin and Roy, Shovonlal and Sibly, Richard and Thorpe, Robert and Hyder, Kieran, k. . A. SEASIM-NEAM: A spatially-
 explicit agent-based simulator of north east atlantic mackerel population dynamics. MethodsX 7 (2020), 10104
 
